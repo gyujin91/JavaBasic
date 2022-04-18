@@ -1,0 +1,15 @@
+package sec1;
+
+public class ArithMetic1 {
+
+	public static void main(String[] args) {
+		
+		// 산순연산 : +,-,*,/,%
+		// 우선순위 : *,/,% > +,-
+		int a = 20;
+		int b = 7;
+		System.out.println("a+b = " + a+b);
+
+	}
+
+}
